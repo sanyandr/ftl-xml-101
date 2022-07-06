@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<school>
+	<lessons>
+		<lesson> 
+			<name lang="en">"Cookie"</name>
+			<description lang="en">"Main theory about HTTP cookies"</description>
+			<mandatory lang="en">"yes"</mandatory>
+			<tasks> 
+				<task>
+					<name lang="en">"Few questions about cookie"<name>
+					<mandatory lang="en">"yes"</mandatory>
+					<questions>
+						<question>
+							<name lang="en">"First question"</name>
+							<text lang="en">"What is cookie?"</text>
+							<answer lang="en"> "A small piece of data sent by a web server and stored on the user's computer." </answer>
+						</question>
+						<question>
+							<name lang="en">"Second question"</name>
+							<text lang="en">"What is the main purpose of using cookie?"</text>
+							<answer lang="en"> "User authentication" </answer>
+						</question>
+						<question>
+							<name lang="en">"Third question"</name>
+							<text lang="en">"Should sites ask permission to use user's cookie?"</text>
+							<answer lang="en"> "Yes" </answer>
+						</question>
+					</questions>
+				</task>
+			</tasks>
+		</lesson>
+	</lessons>
+</shop>
