@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<shop>
+	<categories>
+		<category id="1"> 
+			<name lang="en">"laundry"</name>
+			<description lang="en">"for daily household chores"</description>
+			<img xlink:type="simple" xlink:href="https://drive.google.com/file/d/14Y27LJnengykCgd-ckeHgmtb3T8O9dVj/view?usp=sharing">"laundry"</img>
+		</category>
+	</categories>
+	<products> 
+		<product categoryId="1">
+			<name lang="en">"soap"</name>
+			<description lang="en">"Just a soap"</description>
+			<imgs> 
+				<img xlink:type="simple" xlink:href="https://drive.google.com/file/d/1DoOA78AR-b_JZXJk1UMbbbeRCgsv2Y8E/view?usp=sharing">"Soap laundry"</img>
+				<img xlink:type="simple" xlink:href="https://drive.google.com/file/d/1GVYfdtOXA-DJ-JWFwaG9ES5Rf9HtpkoW/view?usp=sharing">"Soap childish"</img>
+				<img xlink:type="simple" xlink:href="https://drive.google.com/file/d/1ftJHuB_mAunmzVtW8mAZ-uUOdjcMJJY0/view?usp=sharing">"Magnificent very cool soap"</img>
+			</imgs>
+			<price currency="US dollar">9.99</price>
+		</product>
+	</products>
+</shop>
