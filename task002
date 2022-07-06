@@ -7,7 +7,7 @@
 			<mandatory lang="en">"yes"</mandatory>
 			<tasks> 
 				<task>
-					<name lang="en">"Few questions about cookie"<name>
+					<name lang="en">"Few questions about cookie"</name>
 					<mandatory lang="en">"yes"</mandatory>
 					<questions>
 						<question>
@@ -30,4 +30,4 @@
 			</tasks>
 		</lesson>
 	</lessons>
-</shop>
+</school>
